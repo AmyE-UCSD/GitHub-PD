@@ -5,4 +5,4 @@ I have used GitHub to get codes in the past but I have never used it as my own d
 To share codes with and among students.
 
 3. What are ways that GitHub might help you and your students manage code?
-It gives both students and me to have easy access to the shared codes.
+It gives both students and me to have easy access to the shared codes. Also, share the codes publicly with other people.
